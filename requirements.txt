@@ -1,0 +1,11 @@
+Flask
+Flask-PyMongo
+Flask-CORS
+python-dotenv
+Flask-JWT-Extended
+pymongo
+flask_socketio
+ultralytics
+pathlib
+pathlib
+opencv-python
